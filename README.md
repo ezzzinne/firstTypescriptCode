@@ -9,3 +9,15 @@ This TypeScript project provides a way to manage and filter a list of persons, w
 - Stores a list of persons in an array.
 - Implements a `filterPersons` function to filter persons based on given criteria.
 - Provides a `logPerson` function to print person details in a readable format.
+
+## Example Output in Code
+The script filters and logs users and admins of age 23. 
+
+Expected output:
+
+Users of age 23:  
+ &nbsp;- Kate Müller, 23, Astronaut  
+ &nbsp;- Wilson, 23, Ball
+
+Admins of age 23:  
+ &nbsp;- Agent Smith, 23, Anti-virus engineer
